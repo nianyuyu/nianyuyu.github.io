@@ -1,7 +1,6 @@
 window.addEventListener('load',function(){
 
 	var keyValue=window.location.pathname;
-	alert(keyValue);
 	var text = document.getElementsByClassName("blog-nav-item");
 	for(var i=0;i<text.length;i++){
 	
